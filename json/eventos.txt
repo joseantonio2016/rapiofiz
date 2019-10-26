@@ -1,0 +1,29 @@
+eventos columna
+copiar
+pegar
+cortar
+borrar
+Columna
+insertar
+eliminar
+borrar
+
+eventos fila
+copiar
+pegar
+cortar
+borrar
+Fila
+insertar
+eliminar
+
+eventos celda rango
+copiar
+pegar
+cortar
+borrar
+Negrita check
+Color
+Comentario
+Editable check
+
